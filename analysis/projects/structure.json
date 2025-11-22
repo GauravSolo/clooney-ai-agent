@@ -1,0 +1,820 @@
+{
+  "tag": "BODY",
+  "id": null,
+  "classes": "DesignTokensDefault DesignTokenThemeSelectors-theme--systemDarkMode",
+  "text": "Skip to main content\nSearch\nWork\nPlan\nWorkflow\nCompany\nHome\nInbox\nMy tasks\nProjects\nPortfolios\nWork\n",
+  "attributes": {
+    "href": null,
+    "src": null,
+    "role": null,
+    "aria-label": null
+  },
+  "children": [
+    {
+      "tag": "SCRIPT",
+      "id": null,
+      "classes": "",
+      "text": "page_load_globals.times.body_started=page_load_now()",
+      "attributes": {
+        "href": null,
+        "src": null,
+        "role": null,
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "STYLE",
+      "id": null,
+      "classes": "",
+      "text": "@keyframes loading-screen-animation-spinning{0%{transform:rotate(0)}100%{transform:rotate(360deg)}}@",
+      "attributes": {
+        "href": null,
+        "src": null,
+        "role": null,
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "SCRIPT",
+      "id": null,
+      "classes": "",
+      "text": "document.body.addEventListener(\"loading-screen-stop\",(function(){const e=document.querySelector(\".lo",
+      "attributes": {
+        "href": null,
+        "src": null,
+        "role": null,
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "SCRIPT",
+      "id": null,
+      "classes": "",
+      "text": "page_load_globals.times.splash_ended=page_load_now();const syncProtocolVersion=String(\"\")||\"21\";page",
+      "attributes": {
+        "href": null,
+        "src": null,
+        "role": null,
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "LINK",
+      "id": null,
+      "classes": "",
+      "text": null,
+      "attributes": {
+        "href": "https://d3ki9tyy5l5ruj.cloudfront.net/compressed/build/bundles/46b341a1acd66ac510141d1e69122bfea8ae430e/apps/asana/css/themes/root.css",
+        "src": null,
+        "role": null,
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "SCRIPT",
+      "id": null,
+      "classes": "",
+      "text": "if(\"hidden\"===document.visibilityState)page_load_globals.times.first_hidden=page_load_now();else{con",
+      "attributes": {
+        "href": null,
+        "src": null,
+        "role": null,
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "SCRIPT",
+      "id": null,
+      "classes": "",
+      "text": "const useCapture=!0,onUserInput=()=>{page_load_globals.times.first_user_input??=event.timeStamp,docu",
+      "attributes": {
+        "href": null,
+        "src": null,
+        "role": null,
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "SCRIPT",
+      "id": null,
+      "classes": "",
+      "text": "page_load_globals.sw_message_buffer=[],\"serviceWorker\"in navigator&&navigator.serviceWorker.addEvent",
+      "attributes": {
+        "href": null,
+        "src": null,
+        "role": null,
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "SCRIPT",
+      "id": null,
+      "classes": "",
+      "text": "page_load_globals.commit_id=\"46b341a1acd66ac510141d1e69122bfea8ae430e\",page_load_globals.traffic_gro",
+      "attributes": {
+        "href": null,
+        "src": null,
+        "role": null,
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "DIV",
+      "id": "asana",
+      "classes": "notranslate",
+      "text": "Skip to main content\nSearch\nWork\nPlan\nWorkflow\nCompany\nHome\nInbox\nMy tasks\nProjects\nPortfolios\nWork\n",
+      "attributes": {
+        "href": null,
+        "src": null,
+        "role": null,
+        "aria-label": null
+      },
+      "children": [
+        {
+          "tag": "DIV",
+          "id": null,
+          "classes": "ModalManager",
+          "text": null,
+          "attributes": {
+            "href": null,
+            "src": null,
+            "role": null,
+            "aria-label": null
+          },
+          "children": []
+        },
+        {
+          "tag": "DIV",
+          "id": null,
+          "classes": "ToastStateManager-groups",
+          "text": null,
+          "attributes": {
+            "href": null,
+            "src": null,
+            "role": null,
+            "aria-label": null
+          },
+          "children": [
+            {
+              "tag": "DIV",
+              "id": null,
+              "classes": "DefaultToastGroup",
+              "text": null,
+              "attributes": {
+                "href": null,
+                "src": null,
+                "role": null,
+                "aria-label": null
+              },
+              "children": []
+            },
+            {
+              "tag": "DIV",
+              "id": null,
+              "classes": "AutomationToastGroup",
+              "text": null,
+              "attributes": {
+                "href": null,
+                "src": null,
+                "role": null,
+                "aria-label": null
+              },
+              "children": []
+            },
+            {
+              "tag": "DIV",
+              "id": null,
+              "classes": "DefaultToastGroup",
+              "text": null,
+              "attributes": {
+                "href": null,
+                "src": null,
+                "role": null,
+                "aria-label": null
+              },
+              "children": []
+            },
+            {
+              "tag": "DIV",
+              "id": null,
+              "classes": "DefaultToastGroup",
+              "text": null,
+              "attributes": {
+                "href": null,
+                "src": null,
+                "role": null,
+                "aria-label": null
+              },
+              "children": []
+            },
+            {
+              "tag": "DIV",
+              "id": null,
+              "classes": "LayerDestination-layerContainer",
+              "text": null,
+              "attributes": {
+                "href": null,
+                "src": null,
+                "role": null,
+                "aria-label": null
+              },
+              "children": []
+            }
+          ]
+        },
+        {
+          "tag": "DIV",
+          "id": null,
+          "classes": "AppRoot",
+          "text": "Skip to main content\nSearch\nWork\nPlan\nWorkflow\nCompany\nHome\nInbox\nMy tasks\nProjects\nPortfolios\nWork\n",
+          "attributes": {
+            "href": null,
+            "src": null,
+            "role": null,
+            "aria-label": null
+          },
+          "children": [
+            {
+              "tag": "DIV",
+              "id": "asana_full_page",
+              "classes": "AppRoot-fullPage",
+              "text": "Skip to main content\nSearch\nWork\nPlan\nWorkflow\nCompany\nHome\nInbox\nMy tasks\nProjects\nPortfolios\nWork\n",
+              "attributes": {
+                "href": null,
+                "src": null,
+                "role": null,
+                "aria-label": null
+              },
+              "children": [
+                {
+                  "tag": "DIV",
+                  "id": null,
+                  "classes": "GlobalTopbarStructure--onBrowser GlobalTopbarStructure--withModesEnabled GlobalTopbarStructure GlobalTopbar",
+                  "text": "Skip to main content\nSearch",
+                  "attributes": {
+                    "href": null,
+                    "src": null,
+                    "role": null,
+                    "aria-label": null
+                  },
+                  "children": [
+                    {
+                      "tag": "DIV",
+                      "id": null,
+                      "classes": "GlobalTopbarStructure-leftSide--shouldAlignNavButtons GlobalTopbarStructure-leftSide--withModesEnabled GlobalTopbarStructure-leftSide",
+                      "text": "Skip to main content",
+                      "attributes": {
+                        "href": null,
+                        "src": null,
+                        "role": null,
+                        "aria-label": null
+                      },
+                      "children": [
+                        {
+                          "tag": "DIV",
+                          "id": null,
+                          "classes": "GlobalTopbarStructure-leftChildren GlobalTopbarStructure-noDrag",
+                          "text": "Skip to main content",
+                          "attributes": {
+                            "href": null,
+                            "src": null,
+                            "role": null,
+                            "aria-label": null
+                          },
+                          "children": [
+                            {
+                              "tag": "DIV",
+                              "id": null,
+                              "classes": "ButtonThemeablePresentation--isEnabled ButtonThemeablePresentation ButtonThemeablePresentation--medium InversePrimaryButton GlobalTopbar-skipLink HighlightSol HighlightSol--core HighlightSol--buildingBlock Stack Stack--align-center Stack--direction-row Stack--display-inline Stack--justify-center",
+                              "text": "Skip to main content",
+                              "attributes": {
+                                "href": null,
+                                "src": null,
+                                "role": "button",
+                                "aria-label": null
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "DIV",
+                              "id": null,
+                              "classes": "GlobalTopbarSidebarToggleButtonContainer GlobalTopbarSidebarToggleButtonContainer--sidebarModesEnabled Stack Stack--direction-row Stack--display-block Stack--justify-center HighlightSol HighlightSol--buildingBlock",
+                              "text": null,
+                              "attributes": {
+                                "href": null,
+                                "src": null,
+                                "role": null,
+                                "aria-label": null
+                              },
+                              "children": [
+                                {
+                                  "tag": "DIV",
+                                  "id": null,
+                                  "classes": "IconButtonThemeablePresentation--isEnabled IconButtonThemeablePresentation IconButtonThemeablePresentation--medium GlobalTopbar-toggleSidebarButton--inverseTheme GlobalTopbar-toggleSidebarButton--sidebarModesEnabled GlobalTopbar-toggleSidebarButton HighlightSol HighlightSol--buildingBlock Stack Stack--align-center Stack--direction-row Stack--display-inline Stack--justify-center",
+                                  "text": null,
+                                  "attributes": {
+                                    "href": null,
+                                    "src": null,
+                                    "role": "button",
+                                    "aria-label": "Hide sidebar"
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "DIV",
+                              "id": null,
+                              "classes": "NavigationAsanaLogo NavigationAsanaLogo--16",
+                              "text": null,
+                              "attributes": {
+                                "href": null,
+                                "src": null,
+                                "role": null,
+                                "aria-label": null
+                              },
+                              "children": [
+                                {
+                                  "tag": "IMG",
+                                  "id": null,
+                                  "classes": "NavigationAsanaLogo-img",
+                                  "text": null,
+                                  "attributes": {
+                                    "href": null,
+                                    "src": "https://d3ki9tyy5l5ruj.cloudfront.net/obj/ca0c1e32771e1bdf0f307099826f5994e3dc59e4/Asana-Logo-Horizontal-Coral-White.svg",
+                                    "role": null,
+                                    "aria-label": null
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "DIV",
+                      "id": null,
+                      "classes": "GlobalTopbarStructure-search",
+                      "text": "Search",
+                      "attributes": {
+                        "href": null,
+                        "src": null,
+                        "role": null,
+                        "aria-label": null
+                      },
+                      "children": [
+                        {
+                          "tag": "DIV",
+                          "id": null,
+                          "classes": "GlobalTopbarStructure-middleChildren GlobalTopbarStructure-noDrag",
+                          "text": null,
+                          "attributes": {
+                            "href": null,
+                            "src": null,
+                            "role": null,
+                            "aria-label": null
+                          },
+                          "children": []
+                        },
+                        {
+                          "tag": "DIV",
+                          "id": null,
+                          "classes": "TopbarSearchFilterTokenizer--onBrowser TopbarSearchFilterTokenizer",
+                          "text": "Search",
+                          "attributes": {
+                            "href": null,
+                            "src": null,
+                            "role": "listbox",
+                            "aria-label": null
+                          },
+                          "children": [
+                            {
+                              "tag": "DIV",
+                              "id": null,
+                              "classes": "TopbarSearchTypeahead--redesigned TopbarSearchTypeahead TopbarSearchTypeahead--onBrowser",
+                              "text": "Search",
+                              "attributes": {
+                                "href": null,
+                                "src": null,
+                                "role": "search",
+                                "aria-label": null
+                              },
+                              "children": [
+                                {
+                                  "tag": "DIV",
+                                  "id": null,
+                                  "classes": "TopbarSearchTypeahead-background",
+                                  "text": "Search",
+                                  "attributes": {
+                                    "href": null,
+                                    "src": null,
+                                    "role": null,
+                                    "aria-label": null
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag": "DIV",
+                      "id": null,
+                      "classes": "GlobalTopbarStructure-rightSide",
+                      "text": null,
+                      "attributes": {
+                        "href": null,
+                        "src": null,
+                        "role": null,
+                        "aria-label": null
+                      },
+                      "children": [
+                        {
+                          "tag": "DIV",
+                          "id": null,
+                          "classes": "GlobalTopbarStructure-rightChildren GlobalTopbarStructure-noDrag",
+                          "text": null,
+                          "attributes": {
+                            "href": null,
+                            "src": null,
+                            "role": null,
+                            "aria-label": null
+                          },
+                          "children": [
+                            {
+                              "tag": "DIV",
+                              "id": null,
+                              "classes": "IconButtonThemeablePresentation--isEnabled IconButtonThemeablePresentation IconButtonThemeablePresentation--medium LearningHubTopbarButton HighlightSol HighlightSol--buildingBlock Stack Stack--align-center Stack--direction-row Stack--display-inline Stack--justify-center",
+                              "text": null,
+                              "attributes": {
+                                "href": null,
+                                "src": null,
+                                "role": "button",
+                                "aria-label": "Help with Asana"
+                              },
+                              "children": [
+                                {
+                                  "tag": "svg",
+                                  "id": null,
+                                  "classes": null,
+                                  "text": null,
+                                  "attributes": {
+                                    "href": null,
+                                    "src": null,
+                                    "role": null,
+                                    "aria-label": null
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "DIV",
+                              "id": null,
+                              "classes": "AiAssistantGlobalTopbarPaneButtonPresentation AiAssistantGlobalTopbarPaneButton",
+                              "text": null,
+                              "attributes": {
+                                "href": null,
+                                "src": null,
+                                "role": null,
+                                "aria-label": null
+                              },
+                              "children": [
+                                {
+                                  "tag": "DIV",
+                                  "id": null,
+                                  "classes": "IconButtonThemeablePresentation--isEnabled IconButtonThemeablePresentation IconButtonThemeablePresentation--medium AiAssistantGlobalTopbarPaneButtonPresentation-button--isInverse AiAssistantGlobalTopbarPaneButtonPresentation-button--isNotPressed AiAssistantGlobalTopbarPaneButtonPresentation-button HighlightSol HighlightSol--buildingBlock Stack Stack--align-center Stack--direction-row Stack--display-inline Stack--justify-center",
+                                  "text": null,
+                                  "attributes": {
+                                    "href": null,
+                                    "src": null,
+                                    "role": "button",
+                                    "aria-label": "Chat with Asana AI"
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "tag": "DIV",
+                  "id": null,
+                  "classes": "AsanaMain",
+                  "text": "Work\nPlan\nWorkflow\nCompany\nHome\nInbox\nMy tasks\nProjects\nPortfolios\nWork\nCross-functional project pla",
+                  "attributes": {
+                    "href": null,
+                    "src": null,
+                    "role": null,
+                    "aria-label": null
+                  },
+                  "children": [
+                    {
+                      "tag": "DIV",
+                      "id": "asana_main",
+                      "classes": "AsanaMain-mainLayer AsanaMain-mainLayer--withModesEnabled",
+                      "text": "Work\nPlan\nWorkflow\nCompany\nHome\nInbox\nMy tasks\nProjects\nPortfolios\nWork\nCross-functional project pla",
+                      "attributes": {
+                        "href": null,
+                        "src": null,
+                        "role": null,
+                        "aria-label": null
+                      },
+                      "children": [
+                        {
+                          "tag": "DIV",
+                          "id": null,
+                          "classes": "SidebarModesResizableContainer AsanaMain-sidebarResizableContainer AsanaMain-sidebarResizableContainer--withModesEnabled",
+                          "text": "Work\nPlan\nWorkflow\nCompany\nHome\nInbox\nMy tasks\nProjects\nPortfolios\nWork\nCross-functional project pla",
+                          "attributes": {
+                            "href": null,
+                            "src": null,
+                            "role": null,
+                            "aria-label": null
+                          },
+                          "children": [
+                            {
+                              "tag": "DIV",
+                              "id": null,
+                              "classes": "SidebarModesResizableContainer-sidebarWrapper",
+                              "text": "Work\nPlan\nWorkflow\nCompany\nHome\nInbox\nMy tasks\nProjects\nPortfolios\nWork\nCross-functional project pla",
+                              "attributes": {
+                                "href": null,
+                                "src": null,
+                                "role": null,
+                                "aria-label": null
+                              },
+                              "children": [
+                                {
+                                  "tag": "DIV",
+                                  "id": null,
+                                  "classes": "SidebarModesResizableContainer-sidebar SidebarModesRoot",
+                                  "text": "Work\nPlan\nWorkflow\nCompany\nHome\nInbox\nMy tasks\nProjects\nPortfolios\nWork\nCross-functional project pla",
+                                  "attributes": {
+                                    "href": null,
+                                    "src": null,
+                                    "role": null,
+                                    "aria-label": null
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "DIV",
+                              "id": null,
+                              "classes": "ResizeSlider-dragAnchor--isOnRightSideOfResizableElement ResizeSlider-dragAnchor SidebarModesResizableContainer-resizeSliderDragAnchor",
+                              "text": null,
+                              "attributes": {
+                                "href": null,
+                                "src": null,
+                                "role": null,
+                                "aria-label": null
+                              },
+                              "children": [
+                                {
+                                  "tag": "DIV",
+                                  "id": null,
+                                  "classes": "ResizeSlider-visibleLine",
+                                  "text": null,
+                                  "attributes": {
+                                    "href": null,
+                                    "src": null,
+                                    "role": null,
+                                    "aria-label": null
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "MAIN",
+                          "id": "asana_main_page",
+                          "classes": "AsanaMain-asanaPageAndTopbar AsanaMain-asanaPageAndTopbar--withModesEnabled",
+                          "text": "Browse projects\nCreate project\nOwner\nMembers\nPortfolios\nStatus\nName\nMembers\nTeams and portfolios\nLas",
+                          "attributes": {
+                            "href": null,
+                            "src": null,
+                            "role": null,
+                            "aria-label": null
+                          },
+                          "children": [
+                            {
+                              "tag": "DIV",
+                              "id": null,
+                              "classes": "ProjectDirectoryPageHeader PageHeader PageHeader--border HighlightSol HighlightSol--core PageHeaderThemeablePresentation PageHeaderThemeablePresentation--withActionsButtons HighlightSol--buildingBlock Stack Stack--direction-column Stack--display-block Stack--justify-center",
+                              "text": "Browse projects\nCreate project",
+                              "attributes": {
+                                "href": null,
+                                "src": null,
+                                "role": null,
+                                "aria-label": null
+                              },
+                              "children": [
+                                {
+                                  "tag": "DIV",
+                                  "id": null,
+                                  "classes": "Stack Stack--align-center Stack--direction-row Stack--display-block Stack--spacing-spacing-24 Stack--justify-space-between HighlightSol HighlightSol--buildingBlock",
+                                  "text": "Browse projects\nCreate project",
+                                  "attributes": {
+                                    "href": null,
+                                    "src": null,
+                                    "role": null,
+                                    "aria-label": null
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            },
+                            {
+                              "tag": "DIV",
+                              "id": null,
+                              "classes": "TopbarPageHeaderGlobalActions",
+                              "text": null,
+                              "attributes": {
+                                "href": null,
+                                "src": null,
+                                "role": null,
+                                "aria-label": null
+                              },
+                              "children": []
+                            },
+                            {
+                              "tag": "DIV",
+                              "id": null,
+                              "classes": "ProjectDirectoryContent ProjectDirectoryRoot-content Stack Stack--direction-column Stack--display-block HighlightSol HighlightSol--buildingBlock",
+                              "text": "Owner\nMembers\nPortfolios\nStatus\nName\nMembers\nTeams and portfolios\nLast modified\nCross-functional pro",
+                              "attributes": {
+                                "href": null,
+                                "src": null,
+                                "role": null,
+                                "aria-label": null
+                              },
+                              "children": [
+                                {
+                                  "tag": "DIV",
+                                  "id": null,
+                                  "classes": "ProjectDirectoryTypeahead ProjectDirectoryContent-search",
+                                  "text": null,
+                                  "attributes": {
+                                    "href": null,
+                                    "src": null,
+                                    "role": null,
+                                    "aria-label": null
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "DIV",
+                                  "id": null,
+                                  "classes": "ProjectDirectoryFilterBar Stack Stack--direction-row Stack--display-block HighlightSol HighlightSol--buildingBlock",
+                                  "text": "Owner\nMembers\nPortfolios\nStatus",
+                                  "attributes": {
+                                    "href": null,
+                                    "src": null,
+                                    "role": null,
+                                    "aria-label": null
+                                  },
+                                  "children": []
+                                },
+                                {
+                                  "tag": "DIV",
+                                  "id": null,
+                                  "classes": "SpreadsheetGridScroller-container",
+                                  "text": "Name\nMembers\nTeams and portfolios\nLast modified\nCross-functional project plan\nJoined\nMy workspace\nIn",
+                                  "attributes": {
+                                    "href": null,
+                                    "src": null,
+                                    "role": "treegrid",
+                                    "aria-label": null
+                                  },
+                                  "children": []
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "DIV",
+                          "id": null,
+                          "classes": "AsanaMain-quickAddPopOut",
+                          "text": null,
+                          "attributes": {
+                            "href": null,
+                            "src": null,
+                            "role": null,
+                            "aria-label": null
+                          },
+                          "children": [
+                            {
+                              "tag": "DIV",
+                              "id": null,
+                              "classes": "PopOutBoundary",
+                              "text": null,
+                              "attributes": {
+                                "href": null,
+                                "src": null,
+                                "role": null,
+                                "aria-label": null
+                              },
+                              "children": []
+                            }
+                          ]
+                        },
+                        {
+                          "tag": "DIV",
+                          "id": null,
+                          "classes": "AppRoot-disconnectBar--sidebarExpanded AppRoot-disconnectBar",
+                          "text": null,
+                          "attributes": {
+                            "href": null,
+                            "src": null,
+                            "role": null,
+                            "aria-label": null
+                          },
+                          "children": [
+                            {
+                              "tag": "DIV",
+                              "id": null,
+                              "classes": "DisconnectBarManager",
+                              "text": null,
+                              "attributes": {
+                                "href": null,
+                                "src": null,
+                                "role": null,
+                                "aria-label": null
+                              },
+                              "children": []
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "tag": "IFRAME",
+      "id": null,
+      "classes": "",
+      "text": null,
+      "attributes": {
+        "href": null,
+        "src": "https://app.asana.com/-/page_load_cookies?shard_id=1211957160366715&cell_name=undefined&db_id=278",
+        "role": null,
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "IFRAME",
+      "id": "apiproxyc40bae3dc7fc407a3a38e7749f8458aeb56176870.345850012",
+      "classes": "",
+      "text": null,
+      "attributes": {
+        "href": null,
+        "src": "https://content.googleapis.com/static/proxy.html?usegapi=1&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.W5qDlPExdtA.O%2Fd%3D1%2Frs%3DAHpOoo8JInlRP_yLzwScb00AozrrUS6gJg%2Fm%3D__features__#parent=https%3A%2F%2Fapp.asana.com&rpctoken=1261101475",
+        "role": null,
+        "aria-label": null
+      },
+      "children": []
+    },
+    {
+      "tag": "IFRAME",
+      "id": "oauth2relay392633363",
+      "classes": "",
+      "text": null,
+      "attributes": {
+        "href": null,
+        "src": "https://accounts.google.com/o/oauth2/postmessageRelay?parent=https%3A%2F%2Fapp.asana.com&jsh=m%3B%2F_%2Fscs%2Fabc-static%2F_%2Fjs%2Fk%3Dgapi.lb.en.W5qDlPExdtA.O%2Fd%3D1%2Frs%3DAHpOoo8JInlRP_yLzwScb00AozrrUS6gJg%2Fm%3D__features__#rpctoken=619462925&forcesecure=1",
+        "role": null,
+        "aria-label": null
+      },
+      "children": []
+    }
+  ]
+}

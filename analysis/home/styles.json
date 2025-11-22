@@ -1,0 +1,1302 @@
+[
+  {
+    "selector": "SCRIPT",
+    "styles": {
+      "display": "none",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "STYLE",
+    "styles": {
+      "display": "none",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "SCRIPT",
+    "styles": {
+      "display": "none",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "SCRIPT",
+    "styles": {
+      "display": "none",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "LINK",
+    "styles": {
+      "display": "none",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "SCRIPT",
+    "styles": {
+      "display": "none",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "SCRIPT",
+    "styles": {
+      "display": "none",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "SCRIPT",
+    "styles": {
+      "display": "none",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "SCRIPT",
+    "styles": {
+      "display": "none",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV#asana.notranslate",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.ModalManager",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.ToastStateManager-groups",
+    "styles": {
+      "display": "block",
+      "position": "fixed",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 4px"
+    }
+  },
+  {
+    "selector": "DIV.DefaultToastGroup",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.AutomationToastGroup",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.DefaultToastGroup",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.DefaultToastGroup",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.LayerDestination-layerContainer",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.AppRoot",
+    "styles": {
+      "display": "block",
+      "position": "absolute",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV#asana_full_page.AppRoot-fullPage",
+    "styles": {
+      "display": "flex",
+      "position": "absolute",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.GlobalTopbarStructure--onBrowser.GlobalTopbarStructure--withModesEnabled.GlobalTopbarStructure.GlobalTopbar",
+    "styles": {
+      "display": "flex",
+      "position": "relative",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgb(46, 46, 48)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.GlobalTopbarStructure-leftSide--shouldAlignNavButtons.GlobalTopbarStructure-leftSide--withModesEnabled.GlobalTopbarStructure-leftSide",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.GlobalTopbarStructure-leftChildren.GlobalTopbarStructure-noDrag",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.ButtonThemeablePresentation--isEnabled.ButtonThemeablePresentation.ButtonThemeablePresentation--medium.InversePrimaryButton.GlobalTopbar-skipLink.HighlightSol.HighlightSol--core.HighlightSol--buildingBlock.Stack.Stack--align-center.Stack--direction-row.Stack--display-inline.Stack--justify-center",
+    "styles": {
+      "display": "flex",
+      "position": "absolute",
+      "color": "rgb(0, 0, 0)",
+      "backgroundColor": "rgb(255, 255, 255)",
+      "fontSize": "12px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px 8px",
+      "margin": "0px 0px 0px 12px"
+    }
+  },
+  {
+    "selector": "DIV.GlobalTopbarSidebarToggleButtonContainer.GlobalTopbarSidebarToggleButtonContainer--sidebarModesEnabled.Stack.Stack--direction-row.Stack--display-block.Stack--justify-center.HighlightSol.HighlightSol--buildingBlock",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.IconButtonThemeablePresentation--isEnabled.IconButtonThemeablePresentation.IconButtonThemeablePresentation--medium.GlobalTopbar-toggleSidebarButton--inverseTheme.GlobalTopbar-toggleSidebarButton--sidebarModesEnabled.GlobalTopbar-toggleSidebarButton.HighlightSol.HighlightSol--buildingBlock.Stack.Stack--align-center.Stack--direction-row.Stack--display-inline.Stack--justify-center",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "svg",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "path",
+    "styles": {
+      "display": "inline",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.NavigationAsanaLogo.NavigationAsanaLogo--16",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "IMG.NavigationAsanaLogo-img",
+    "styles": {
+      "display": "inline",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.GlobalTopbarStructure-search",
+    "styles": {
+      "display": "flex",
+      "position": "absolute",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.GlobalTopbarStructure-middleChildren.GlobalTopbarStructure-noDrag",
+    "styles": {
+      "display": "flex",
+      "position": "absolute",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px 12px 0px 0px"
+    }
+  },
+  {
+    "selector": "DIV.TopbarSearchFilterTokenizer--onBrowser.TopbarSearchFilterTokenizer",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.TopbarSearchTypeahead--redesigned.TopbarSearchTypeahead.TopbarSearchTypeahead--onBrowser",
+    "styles": {
+      "display": "block",
+      "position": "relative",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.TopbarSearchTypeahead-background",
+    "styles": {
+      "display": "block",
+      "position": "absolute",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.TopbarSearchInputButton-buttonBase--redesigned.TopbarSearchInputButton-buttonBase--isInverse.TopbarSearchInputButton-buttonBase--onBrowser.TopbarSearchInputButton-buttonBase",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(245, 244, 243)",
+      "backgroundColor": "rgb(86, 85, 87)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px 16px 0px 32px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "SPAN.TypographyPresentation.TypographyPresentation--colorNavigation.TypographyPresentation--overflowTruncate.TypographyPresentation--medium.TopbarSearchInputButton-placeholderText.HighlightSol.HighlightSol--buildingBlock",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(245, 244, 243)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 0px 1px"
+    }
+  },
+  {
+    "selector": "svg",
+    "styles": {
+      "display": "block",
+      "position": "absolute",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "path",
+    "styles": {
+      "display": "inline",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.GlobalTopbarStructure-rightSide",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px 12px 0px 0px"
+    }
+  },
+  {
+    "selector": "DIV.GlobalTopbarStructure-rightChildren.GlobalTopbarStructure-noDrag",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.IconButtonThemeablePresentation--isEnabled.IconButtonThemeablePresentation.IconButtonThemeablePresentation--medium.LearningHubTopbarButton.HighlightSol.HighlightSol--buildingBlock.Stack.Stack--align-center.Stack--direction-row.Stack--display-inline.Stack--justify-center",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "svg",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "path",
+    "styles": {
+      "display": "inline",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.AiAssistantGlobalTopbarPaneButtonPresentation.AiAssistantGlobalTopbarPaneButton",
+    "styles": {
+      "display": "block",
+      "position": "relative",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.IconButtonThemeablePresentation--isEnabled.IconButtonThemeablePresentation.IconButtonThemeablePresentation--medium.AiAssistantGlobalTopbarPaneButtonPresentation-button--isInverse.AiAssistantGlobalTopbarPaneButtonPresentation-button--isNotPressed.AiAssistantGlobalTopbarPaneButtonPresentation-button.HighlightSol.HighlightSol--buildingBlock.Stack.Stack--align-center.Stack--direction-row.Stack--display-inline.Stack--justify-center",
+    "styles": {
+      "display": "inline-flex",
+      "position": "relative",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.AiAssistantGlobalTopbarPaneButtonPresentation-icon--transition",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "svg",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "defs",
+    "styles": {
+      "display": "inline",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "linearGradient#lui_41",
+    "styles": {
+      "display": "inline",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "stop",
+    "styles": {
+      "display": "inline",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "stop",
+    "styles": {
+      "display": "inline",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "path",
+    "styles": {
+      "display": "inline",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.AsanaMain",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV#asana_main.AsanaMain-mainLayer.AsanaMain-mainLayer--withModesEnabled",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.SidebarModesResizableContainer.AsanaMain-sidebarResizableContainer.AsanaMain-sidebarResizableContainer--withModesEnabled",
+    "styles": {
+      "display": "flex",
+      "position": "relative",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgb(46, 46, 48)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.SidebarModesResizableContainer-sidebarWrapper",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.SidebarModesResizableContainer-sidebar.SidebarModesRoot",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "-1px 0px 0px"
+    }
+  },
+  {
+    "selector": "DIV.SidebarModesRoot-roundedCornerBackground",
+    "styles": {
+      "display": "block",
+      "position": "absolute",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgb(46, 46, 48)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "-1px 0px 0px"
+    }
+  },
+  {
+    "selector": "DIV.SidebarModesRoot-leftColumn",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgb(46, 46, 48)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.SidebarModesRoot-modesSelector",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.AsanaModeNavButton.AsanaModeNavContainer.Stack.Stack--align-center.Stack--direction-column.Stack--display-block.Stack--spacing-spacing-4.Stack--justify-start.HighlightSol.HighlightSol--buildingBlock",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "4px 0px 0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.ThemeableCardPresentation--isValid.ThemeableCardPresentation.AsanaModeNavButton-iconContainer.AsanaModeNavButton-iconContainer--selected.AsanaModeNavButton-iconContainer--active.AsanaModeNavIconContainer.Stack.Stack--align-center.Stack--direction-column.Stack--display-block.Stack--justify-center.HighlightSol.HighlightSol--buildingBlock",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(255, 255, 255, 0.11)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "svg",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "path",
+    "styles": {
+      "display": "inline",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.TypographyPresentation.TypographyPresentation--colorNavigationWeak.TypographyPresentation--small.TypographyPresentation--textAlignCenter.HighlightSol.HighlightSol--buildingBlock",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(162, 160, 162)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "12px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.AsanaModeNavButton.AsanaModeNavContainer.Stack.Stack--align-center.Stack--direction-column.Stack--display-block.Stack--spacing-spacing-4.Stack--justify-start.HighlightSol.HighlightSol--buildingBlock",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "4px 0px 0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.ThemeableCardPresentation--isValid.ThemeableCardPresentation.AsanaModeNavButton-iconContainer.AsanaModeNavIconContainer.Stack.Stack--align-center.Stack--direction-column.Stack--display-block.Stack--justify-center.HighlightSol.HighlightSol--buildingBlock",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "svg",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "path",
+    "styles": {
+      "display": "inline",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.TypographyPresentation.TypographyPresentation--colorNavigationWeak.TypographyPresentation--small.TypographyPresentation--textAlignCenter.HighlightSol.HighlightSol--buildingBlock",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(162, 160, 162)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "12px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.AsanaModeNavButton.AsanaModeNavContainer.Stack.Stack--align-center.Stack--direction-column.Stack--display-block.Stack--spacing-spacing-4.Stack--justify-start.HighlightSol.HighlightSol--buildingBlock",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "4px 0px 0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.ThemeableCardPresentation--isValid.ThemeableCardPresentation.AsanaModeNavButton-iconContainer.AsanaModeNavIconContainer.Stack.Stack--align-center.Stack--direction-column.Stack--display-block.Stack--justify-center.HighlightSol.HighlightSol--buildingBlock",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "svg",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "path",
+    "styles": {
+      "display": "inline",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.TypographyPresentation.TypographyPresentation--colorNavigationWeak.TypographyPresentation--small.TypographyPresentation--textAlignCenter.HighlightSol.HighlightSol--buildingBlock",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(162, 160, 162)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "12px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.AsanaModeNavButton.AsanaModeNavContainer.Stack.Stack--align-center.Stack--direction-column.Stack--display-block.Stack--spacing-spacing-4.Stack--justify-start.HighlightSol.HighlightSol--buildingBlock",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "4px 0px 0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.ThemeableCardPresentation--isValid.ThemeableCardPresentation.AsanaModeNavButton-iconContainer.AsanaModeNavIconContainer.Stack.Stack--align-center.Stack--direction-column.Stack--display-block.Stack--justify-center.HighlightSol.HighlightSol--buildingBlock",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "svg",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "path",
+    "styles": {
+      "display": "inline",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.TypographyPresentation.TypographyPresentation--colorNavigationWeak.TypographyPresentation--small.TypographyPresentation--textAlignCenter.HighlightSol.HighlightSol--buildingBlock",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(162, 160, 162)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "12px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.SidebarModesRoot-leftColumnBottomElements",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "12px 0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.ThemeableCardPresentation--isValid.ThemeableCardPresentation.ThemeableInteractiveCardPresentation--isNotSelected.ThemeableInteractiveCardPresentation--isEnabled.ThemeableInteractiveCardPresentation.MinibarOmnibuttonIconButton",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.MinibarOmnibuttonIconButton-circle",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgb(255, 88, 74)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "svg",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "path",
+    "styles": {
+      "display": "inline",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.ThemeableCardPresentation--isValid.ThemeableCardPresentation.ThemeableInteractiveCardPresentation--isNotSelected.ThemeableInteractiveCardPresentation--isEnabled.ThemeableInteractiveCardPresentation.MinibarIcon.SidebarInvite-minibarIcon.MinibarIcon--default",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px 0px 2px"
+    }
+  },
+  {
+    "selector": "svg",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "path",
+    "styles": {
+      "display": "inline",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.AvatarButton--inverseTheme.AvatarButton.AvatarButton--sizeMedium.HighlightSol.HighlightSol--core",
+    "styles": {
+      "display": "flex",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "SPAN.TopbarSettingsMenuButton-avatarWrapper",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "SPAN.Avatar.AvatarPhoto.AvatarPhoto--default.AvatarPhoto--medium.AvatarPhoto--color5.HighlightSol.HighlightSol--core",
+    "styles": {
+      "display": "inline-flex",
+      "position": "relative",
+      "color": "rgb(53, 43, 0)",
+      "backgroundColor": "rgb(246, 216, 97)",
+      "fontSize": "12px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "SPAN.AvatarPhoto-image",
+    "styles": {
+      "display": "block",
+      "position": "absolute",
+      "color": "rgb(53, 43, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "12px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "SPAN.AvatarPhoto-initials",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(53, 43, 0)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "12px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.SidebarModesRoot-rightColumn.Stack.Stack--direction-column.Stack--display-block.HighlightSol.HighlightSol--buildingBlock",
+    "styles": {
+      "display": "flex",
+      "position": "relative",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgb(46, 46, 48)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px 0px 12px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.DynamicBorderScrollable.SidebarModesRoot-scrollable.SidebarModesRoot-scrollable--isInverse",
+    "styles": {
+      "display": "flex",
+      "position": "relative",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.Scrollable--withCompositingLayer.Scrollable.Scrollable--vertical.DynamicBorderScrollable-scrollable",
+    "styles": {
+      "display": "block",
+      "position": "static",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.DynamicBorderScrollable-content.SidebarModesRoot-scrollableContent",
+    "styles": {
+      "display": "block",
+      "position": "relative",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px 12px 8px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.ResizeListener",
+    "styles": {
+      "display": "block",
+      "position": "absolute",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.ResizeListener-expand",
+    "styles": {
+      "display": "block",
+      "position": "absolute",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  },
+  {
+    "selector": "DIV.ResizeListener-expandChild",
+    "styles": {
+      "display": "block",
+      "position": "absolute",
+      "color": "rgb(30, 31, 33)",
+      "backgroundColor": "rgba(0, 0, 0, 0)",
+      "fontSize": "14px",
+      "fontFamily": "-apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, \"Helvetica Neue\", Helvetica, Arial, sans-serif",
+      "padding": "0px",
+      "margin": "0px"
+    }
+  }
+]
